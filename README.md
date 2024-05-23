@@ -1,2 +1,2 @@
 # Landing-Page
-new repo
+completed with HTML,CSS and Java Script
